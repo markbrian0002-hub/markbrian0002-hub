@@ -6,6 +6,12 @@
 * 💞️ I’m open to collaborating on open-source Data Science projects or remote Software Engineering internships.
 * 📫 Let's connect on [LinkedIn](www.linkedin.com/in/mark-muli-069b7a36a).# Mark-Brian
 
+### 🛠️ Skills & Tools:
 
-SKILLS
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,pandas,numpy,powerbi)](https://skillicons.dev)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
