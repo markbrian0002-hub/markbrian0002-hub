@@ -15,5 +15,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="65" height="65"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="65" height="65"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="65" height="65"/>&nbsp;&nbsp;
-  <img src="https://simpleicons.org/icons/powerbi.svg" alt="powerbi" width="55" height="55" style="filter: invert(79%) sepia(61%) saturate(541%) hue-rotate(5deg) brightness(98%) contrast(96%);"/>
-</p>
+ </p>
