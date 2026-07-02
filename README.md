@@ -1,9 +1,8 @@
-* 👋 Hi, I’m Mark Brian.
-* 🎓 Currently pursuing a Diploma in Software Engineering at Zetech University.
-* 📊 Recent Data Analytics graduate with a focus on turning complex data into actionable insights.
-* 🛠️ Skills: SQL (MySQL), Python (Pandas/NumPy), Power BI, and Web Development.
-* 💞️ I’m open to collaborating on open-source Data Science projects or remote Software Engineering internships.
-* 📫 Let's connect on [LinkedIn](www.linkedin.com/in/mark-muli-069b7a36a).# Mark-Brian
+*  Hi, I’m Mark Brian.
+*  A software Engineer and Data Analyst professional with a focus on turning complex data into actionable insights.
+*  Skills: SQL (MySQL), Python (Pandas/NumPy), Power BI, and Web Development.
+*  I’m open to collaborating on open-source Data Science projects or remote Software Engineering role.
+*  Let's connect on [LinkedIn](www.linkedin.com/in/mark-muli-069b7a36a).# Mark-Brian
 
 ### Skills and Tools:
 
